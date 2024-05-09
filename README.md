@@ -27,7 +27,7 @@ $ python manage.py runserver
 
 ---
 
-## Features 📋
+## Chức năng 📋
 ⚡️ SignUp and SignIn option.\
 ⚡️ Google SignUp and SignIn option.\
 ⚡️ Play song, view detailed information of song.\
@@ -64,6 +64,10 @@ $ python manage.py runserver
 
 
 
-## Team ✨
+## Thành viên nhóm ✨
+
+- Thái Đình Hữu 3120410227
+- Dương Minh Khánh 3120410241
+- Lê Tuấn Hưng 3120410221
 
 
