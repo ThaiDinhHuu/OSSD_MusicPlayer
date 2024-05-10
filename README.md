@@ -28,17 +28,15 @@ $ python manage.py runserver
 ---
 
 ## Chức năng 📋
-⚡️ SignUp and SignIn option.\
-⚡️ Google SignUp and SignIn option.\
-⚡️ Play song, view detailed information of song.\
-⚡️ Search songs.\
-⚡️ Filter songs based on language and singer.\
-⚡️ Create new playlist.\
-⚡️ Add/Remove songs to/from playlist.\
-⚡️ Add/Remove songs to/from favourites.\
-⚡️ Scroll through recently played/viewed songs.\
-⚡️ Explore songs through your personalized playlist and favourites.
-
+⚡️ Tùy chọn Đăng ký và Đăng nhập.
+⚡️ Phát bài hát, xem thông tin chi tiết của bài hát.
+⚡️ Tìm kiếm bài hát.
+⚡️ Lọc bài hát theo ngôn ngữ và ca sĩ.
+⚡️ Tạo danh sách phát mới.
+⚡️ Thêm/Xóa bài hát vào/khỏi danh sách phát.
+⚡️ Thêm/Xóa bài hát vào/khỏi mục yêu thích.
+⚡️ Xem lại các bài hát đã phát/đã xem gần đây.
+⚡️ Khám phá các bài hát thông qua danh sách bài hát được cá nhân hóa và mục yêu thích.
 
 ---
 
