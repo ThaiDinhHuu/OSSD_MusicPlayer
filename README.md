@@ -1,14 +1,11 @@
 # Django based music streaming website
 
 
-### Website Preview
+### Giao diện Website 
 #### Home Page
-<img src="website_images/Home.png" width="900">
+<img src="musicplayer/home.png" width="900">
 
-#### Detail Page
-<img src="website_images/Detail.png" width="900">
 
-----
 
 ## Installation 📦
 
