@@ -3,7 +3,7 @@
 
 ### Giao diện Website 
 #### Home Page
-<img src="musicplayer/home.png" width="900">
+<img src="musicplayer/home.jpg" width="900">
 
 
 
